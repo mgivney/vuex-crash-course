@@ -1,4 +1,12 @@
-# todos
+# Vuex Tutorial
+
+This hideous little application is to learn the semantics
+of Vuex and is based on Brad Travesty's YouTube video 
+"Vuex Crash Course" where he teaches the concepts. 
+
+https://www.youtube.com/watch?v=5lVQgZzLMHc
+
+(Brad is a great teacher. Check him out on YouTube and Udemy)
 
 ## Project setup
 ```
